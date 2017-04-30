@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+file=$1
+
+#simulator/HardwareSimulator.sh "$file"
+
+simulator/HardwareSimulator.sh examples/01/"$file".tst
