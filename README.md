@@ -1,6 +1,14 @@
 # hdl
 
+## What
 <img src="resources/xor-hdl.gif" alt="hdl" />
+
+## Why
+FPGA is the future. If you can design custom circuitry, you can manage at a low
+level the control path and datapath for your custom operations.
+
+## Goals
+<img src="resources/arm1-labelled.png" alt="hdl" width=500 />
 
 ## Chipset API
 
