@@ -1,6 +1,6 @@
 # hdl
 
-<img src="resouces/xor-hdl.gif" alt="hdl" />
+<img src="resources/xor-hdl.gif" alt="hdl" />
 
 ## Chipset API
 
